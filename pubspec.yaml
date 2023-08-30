@@ -1,0 +1,25 @@
+name: ui_to_image
+description: Create custom image from flutter UI design, store in device and share with social media.
+version: 0.0.1-beta-4
+homepage: https://zaid.digital
+repository: https://github.com/MohamedAshraf701/ui_to_image.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.0
+  esys_flutter_share_plus: ^2.2.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
