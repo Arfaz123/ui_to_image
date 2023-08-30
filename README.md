@@ -139,8 +139,8 @@ Contributions to the `ui_to_image` package are welcome! Please read the [contrib
 
 ## Contributors
 
-<a href="https://github.com/MohamedAshraf701/prayers_times/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=MohamedAshraf701/prayers_times" />
+<a href="https://github.com/Arfaz123/ui_to_image/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Arfaz123/ui_to_image" />
 </a>
 
 ---
