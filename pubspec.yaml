@@ -1,6 +1,6 @@
 name: ui_to_image
 description: Create custom image from flutter UI design, store in device and share with social media.
-version: 0.0.3
+version: 0.0.4
 homepage: https://arfaz.tech
 repository: https://github.com/Arfaz123/ui_to_image.git
 
